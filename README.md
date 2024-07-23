@@ -1,5 +1,6 @@
 # APi-IBGE
 Consulta API IBGE
+![image](https://github.com/user-attachments/assets/cfc95583-6d1d-4cfa-b0b5-3cb45d2784a1)
 
 Municípios por UF
 Obtém o conjunto de municípios do Brasil a partir dos identificadores das Unidades da Federação
